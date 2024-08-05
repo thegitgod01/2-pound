@@ -6,7 +6,7 @@ Text = "Loading Private Version 1.01",
 
 Duration = 0.9
 })
-
+print ("works)"
 wait(2)
 print ("loading 1/10")
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
